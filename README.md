@@ -35,6 +35,7 @@ This is the public documentation for The Beyond's Blood on the Clocktower Discor
   * `/psychopath axe_attack <target: Who will suffer from your attack?>`: Attack a player as the Psychopath!
   * `/psychopath roshambo <choice: Rock, Paper, or Scissors?>`: Play Roshambo to see if you die!
 * Resources
+  * `/resources script_directory`: Get the link to the script directory!
   * `/resources spreadsheet`: Get the link to Eru's spreadsheet template!
   * `/resources wiki [page: Select wiki page to lookup. If left blank, will default to the BotC wiki homepage.]`: Get BotC Wiki links!
 * `/slayer <player: Select the player to slay!>`: Attempt to use the Slayer ability!
