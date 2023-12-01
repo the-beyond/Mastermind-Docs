@@ -37,7 +37,7 @@ This is the public documentation for The Beyond's Blood on the Clocktower Discor
 * Resources
   * `/resources script_directory`: Get the link to the script directory!
   * `/resources spreadsheet`: Get the link to Eru's spreadsheet template!
-  * `/resources wiki [page: Select wiki page to lookup. If left blank, will default to the BotC wiki homepage.]`: Get BotC Wiki links!
+  * `/resources wiki <visibility: choose to share with everyone or check privately!> [page: Select wiki page to lookup. If left blank, will default to the BotC wiki homepage.]`: Get BotC Wiki links!
 * `/slayer <player: Select the player to slay!>`: Attempt to use the Slayer ability!
 
 ## Storyteller Commands
