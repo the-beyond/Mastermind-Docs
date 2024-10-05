@@ -9,6 +9,7 @@ This is the public documentation for The Beyond's Blood on the Clocktower Discor
   * `/base_counts photo`: Get the photo listing all base counts.
   * `/base_counts generic_lookup <count: The number of players to get base counts for>`: Get the base counts for a specified number of players.
   * `/base_counts current_game`: Get the base counts for the number of players in the current game.
+* `/alsaahir <demons: Which players are demons?> <minions: Which players are minions?>`: Make a guess of the evil team as the Alsaahir!
 * `/cult_leader [cult_description: What is your cult like? Why should people join it?]`: Request that players join our cult.
 * `/doomsayer call_upon`: Call upon the Doomsayer!
 * `/duchess`: Go and visit the Duchess!
@@ -45,6 +46,7 @@ These commands will only function for users with the `Storyteller` role.
 * `/add_vote <player: Who is having their vote added?>`: Add a vote to a dead player!
 * Announce
   * `/announce al_hadikhia <choice1: first selection> <choice 2: second selection> <choice3: third selection>`: Announce the choices of the Al-Hadikhia!
+  * `/announce banshee <player: Who is the banshee?>`: Announce the banshee is awake!
   * `/announce conclude [message: Optional, enter any special message you need to add.]`: End the morning announcements!
   * `/announce fearmonger`: Announce the Fearmonger has chosen a player!
   * `/announce leviathan <day: Which day number is it?> [message: additional optional message]`: Announce that there is a Leviathan!
